@@ -1,4 +1,6 @@
- class  SecondClass{
+package firstPackage;
+
+class  SecondClass{
     void methodA(int a, int b){
         int sum=a+b;
         System.out.println("Both Integer:" +sum);
